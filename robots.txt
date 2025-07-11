@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://Chicken-Jockey-Clicker-Unblocked.github.io/sitemap.xml
